@@ -1,4 +1,4 @@
-# Jekyll GitBook
+# XingXing book
 
 Make Jelly site have a GitBook look!
 
